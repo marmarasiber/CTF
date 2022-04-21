@@ -1,4 +1,4 @@
-# iftarVakti
+# April's CTF
 
 Flag format 
 ```
@@ -10,4 +10,4 @@ Send mail when you got the flag
 kulup.marmarasiber@marmara.edu.tr
 ```
 
-[Download](./iftarVakti/iftarVakti.pcapng)
+[1. iftarVakti](./iftarVakti/iftarVakti.pcapng)
