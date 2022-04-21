@@ -2,4 +2,6 @@
 
 Welcome to MarmaraCyber CTF repository. This repo contains our CTF challenges.
 
-[First CTF](./iftarVakti/README.md)
+| CTF Name      | Category |
+| :---------: | :------: |
+|[1. iftarVakti](./iftarVakti/README.md)| Wireshark Forensics, Basic crypto, Python|
